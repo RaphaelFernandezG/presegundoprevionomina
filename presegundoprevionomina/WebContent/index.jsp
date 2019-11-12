@@ -29,6 +29,11 @@
 							<input type="button" id="registrar" value="Registrar Empleado" class="btn login_btn2">
 						</a>
 					</div>
+					<div align="center" class="form-group">
+						<a href="pages/listarconceptos.jsp">
+							<input type="button" id="listarconceptos" value="Listar Conceptos" class="btn login_btn2">
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
