@@ -36,6 +36,7 @@
 					<div class="form-group">
 						<a href="../index.jsp"><input type="button" id="volver" value="Volver" class="btn float-left login_btn"></a>
 					</div>
+					
 				</div>				
 			</div>
 		</div>
