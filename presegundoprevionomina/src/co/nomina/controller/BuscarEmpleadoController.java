@@ -39,7 +39,7 @@ public class BuscarEmpleadoController extends HttpServlet {
 		 Empleado e2=eDAO.find(e.getCodigo());
 		 
 		 request.setAttribute("empleado",e2);
-		 RequestDispatcher r=getServletContext().getRequestDispatcher("pages/informacionempleado.jsp");
+		 RequestDispatcher r=getServletContext().getRequestDispatcher("./pages/informacionempleado.jsp");
 		 r.forward(request, response);
 		 
 		 
